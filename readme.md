@@ -19,7 +19,7 @@ A powerful Python tool to convert MBOX email archives to PDF files with proper f
 
 ## Usage
 
-### Converting a Single MBOX File
+### Converting an MBOX File
 
 ```bash
 python convert-mbox-to-pdf.py input.mbox output_directory
